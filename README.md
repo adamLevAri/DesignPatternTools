@@ -2,6 +2,7 @@
 Implementation of widely used Design Patterns in Java
 
 - Singeleton
+- Observer
 - Factory
 - Decorator
 - Adapater
